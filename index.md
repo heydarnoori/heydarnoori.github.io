@@ -6,7 +6,7 @@ title: Home
 <div class="container-fluid">
   <div class="row">
     <div class="col-sm-7">
-      <img class="img-fluid" src="./imgs/Photo2.jpg" alt="Dr Abbas Heydarnoori"><br>
+      <img class="img-fluid" src="./imgs/Photo1.jpg" alt="Dr Abbas Heydarnoori"><br>
     </div>
     <div class="col-sm-5">    
     <h1 class="text-primary">Welcome!!</h1>
