@@ -1,10 +1,10 @@
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-scholar
   
 gems: ['jekyll/scholar'] 
-title: "Dr Abbas Heydarnoori"
+
+title: "Dr Kelly Blincoe"
 
 google_analytics: G-W5T3VKJM7W
 
