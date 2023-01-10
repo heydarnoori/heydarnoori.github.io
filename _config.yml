@@ -3,7 +3,7 @@ plugins:
   - jekyll-sitemap
   
 gems: ['jekyll/scholar'] 
-
+plugins_dir: [jekyll-scholar]
 title: "Dr Abbas Heydarnoori"
 
 google_analytics: G-D2L0JGBN08
