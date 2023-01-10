@@ -6,7 +6,7 @@ title: Contact
 
 <span><i class="fa fa-envelope"></i><a href="mailto:aheydar@bgsu.edu" target="_blank"> aheydar@bgsu.edu</a></span><br><br>
 
-<span><i class="fa fa-phone"></i>419-372-7486</span><br><br>
+<span><i class="fa fa-phone"></i>+1 419-372-7486</span><br><br>
 
 <span><b>Mailing Address</b><br>
 Hayes 233<br>
