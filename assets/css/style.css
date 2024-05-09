@@ -108,8 +108,8 @@
 .readme {
   position: relative;
   padding: 11px 35px;
-  background: #fff;
-  color: #00796b;
+  background: #333;
+  color: #fff;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -119,15 +119,15 @@
   -webkit-border-radius: 5px;
 }
 
-/* .readme:hover{
+.readme:hover{
   color: white;
   background-color: #00796b;
-} */
+}
 
 .contactme {
   position: relative;
   padding: 11px 35px;
-  background: none;
+  background: #333;
   color: #fff;
   border: 2px solid #fff;
   font-weight: 600;
@@ -140,8 +140,8 @@
 }
 
 .contactme:hover{
-  color: #00796b;
-  background-color: white;
+  color: white;
+  background-color: #00796b;
 }
 /* main body */
 
@@ -152,23 +152,12 @@ body {
   font-size: 18px;
 }
 
-/* body {
-  color: black;
-  font-size: 18px;
-} */
-
-/* main a -- links */
-
-/* a {
-  color: #009688;
-} */
-
 a {
-  color: #004d40;
+  color: #333;
 }
 
 a:hover {
-  color: #123;
+  color: #ffab40;
   /*font-weight: 500;*/
 }
 
@@ -363,12 +352,12 @@ h3 {
 } */
 
 #intro.section {
-  background: #e7ebe6 repeat;
+  background: #e0e3de repeat;
   position: relative;
 }
 
 #intro.section .container {
-  color: white;
+  color: #ffffff;
   font-weight: 200;
   left: 0;
   position: absolute;
@@ -387,7 +376,7 @@ h3 {
   /* font-weight: 400; */
   line-height: 150%;
   /* padding: 0 0px; */
-  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
 }
 
 #intro.section .underline {
