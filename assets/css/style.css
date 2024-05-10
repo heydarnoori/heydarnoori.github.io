@@ -14,7 +14,9 @@
   border: 6px solid rgba(0, 77, 64, 0.4); 
   border-radius: 50% !important;
 }
-
+a {
+  text-transform: none !important;
+}
 .profile-pic img {
   width: 100%;
   height: auto;
