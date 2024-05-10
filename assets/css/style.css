@@ -16,6 +16,7 @@
 }
 a {
   text-transform: none !important;
+  margin-right: 2px !important;
 }
 .profile-pic img {
   width: 100%;
