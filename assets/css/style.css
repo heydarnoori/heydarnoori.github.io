@@ -14,10 +14,12 @@
   border: 6px solid rgba(0, 77, 64, 0.4); 
   border-radius: 50% !important;
 }
+
 a {
   text-transform: none !important;
   margin-right: 2px !important;
 }
+
 .profile-pic img {
   width: 100%;
   height: auto;
@@ -542,11 +544,12 @@ h3 {
 }
 
 #contact a:not(.btn-floating) {
-  bottom: 6px;
-  left: 20px;
-  position: relative;
+  text-align: center;
+  display: block;
+  left: initial;
+  bottom: initial;
 }
-
+  
 #experience .col.s12.m2 {
   text-align: center;
 }
