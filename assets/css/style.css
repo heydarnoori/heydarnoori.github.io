@@ -232,7 +232,7 @@ nav i {
 /* main */
 
 main {
-  background: url(../../assets/img/p1.webp) repeat;
+  background: url(../../assets/img/bg2.webp) repeat;
   padding-left: 190px;
 }
 
@@ -352,7 +352,8 @@ h3 {
 } */
 
 #intro.section {
-  background: #e0e3de repeat;
+  /*background: #e0e3de repeat;*/
+  background: url(../../assets/img/bg1.webp) repeat;
   position: relative;
 }
 
