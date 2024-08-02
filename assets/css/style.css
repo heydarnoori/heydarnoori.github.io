@@ -231,13 +231,8 @@ nav i {
 
 /* main */
 
-/* main {
-  background: url(../../assets/img/bg.png) repeat;
-  padding-left: 190px;
-} */
-
 main {
-  background: url(../../assets/img/bg.png) repeat;
+  background: url(../../assets/img/p1.webp) repeat;
   padding-left: 190px;
 }
 
@@ -670,7 +665,7 @@ small {
 
 @media (max-width: 600px) {
   h2 {
-    font-size: 22px;
+	font-size: 22px;
     line-height: 200%;
     margin: 30px 0 0;
   }
