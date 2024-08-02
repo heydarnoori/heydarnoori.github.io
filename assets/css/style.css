@@ -689,24 +689,6 @@ small {
     bottom: 15px;
   }
 
-  #contact a:not(.btn-floating) {
-    bottom: 6px;
-    left: 20px;
-    position: relative;
-  }
-
-  #contact a:not(.btn-floating) {
-    text-align: center;
-    display: block;
-    left: initial;
-    bottom: initial;
-  }
-  #contact a.btn-floating.btn-large {
-    display: block;
-    text-align: center;
-    margin: 0 auto;
-  }
-  
   #intro.section {
     background-position-x: 30%;
   }
